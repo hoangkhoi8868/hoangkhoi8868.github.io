@@ -4,7 +4,7 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: small;
-  background-color: #ccc;
+  background-color: rgb(204, 204, 204);
   /*background:url(images/background.gif);*/
 }
 #website {
